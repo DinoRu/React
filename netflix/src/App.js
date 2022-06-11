@@ -1,0 +1,15 @@
+import "./app.scss";
+import Login from "./pages/login/Login";
+//import Register from "./pages/register/Register";
+//import Home from "./pages/Home";
+//import Watch from "./pages/watch/Watch";
+
+function App() {
+  return (
+    <div className="app">
+      <Login />
+    </div>
+  );
+}
+
+export default App;

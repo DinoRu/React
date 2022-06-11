@@ -1,0 +1,14 @@
+{
+    "git.ignoreLimitWarning": true,
+    "diffEditor.wordWrap": "inherit",
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 80,
+    "files.exclude": {
+        "node_modules": true
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line-thin",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.fontFamily": "'Cascadia Code', Menlo, Monaco, 'Courier New', monospace"
+}
